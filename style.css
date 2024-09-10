@@ -1,4 +1,7 @@
 .center {
-    margin: auto;
+    margin: 0 auto;
     width: 30%;
   }
+body{
+  background-color: rgb(255, 105, 180);
+}
